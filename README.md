@@ -77,7 +77,9 @@ To improve feature construction and generalization, I plan to explore:
 - **Deployment**: Streamlit for interactive app  
 
 ---
-
+### Dataset Citation
+- Almeida, T. & Hidalgo, J. (2011). SMS Spam Collection [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5CC84.
+----
 ## 📷 Demo
 👉 [Insert Screenshot or GIF of Streamlit App Here]  
 
