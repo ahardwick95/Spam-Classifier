@@ -1,4 +1,4 @@
-# 📩 Spam vs Ham Classifier (NLP Project)
+# 📩 Spam vs Ham Classifier
 
 ## 📌 Project Overview
 This project explores the classic **Spam vs Ham SMS classification problem** using **Natural Language Processing (NLP)** and **Machine Learning**.  
