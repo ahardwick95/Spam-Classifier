@@ -1,0 +1,31 @@
+You are acting as a spam and ham generator. Please generate of batch of 1000 messages. Some messages should be ham and others should be spam. I want the class balance to be 87% ham and 13% spam. For the spam, I want it be adversarial in nature ( i.e. spam that threat actors or hackers would use to infiltrate a system). Please use the attached dataset as a reference on how to make realistic messages for both ham and spam. Also use the following explanations and examples on how to produce the adversarial spam messages in the new dataset:
+
+
+1. Text Obfuscation
+•	Tactic: Misspellings or substitutions to bypass keyword filters.
+•	Example:
+"Cl1ck h3re t0 cl@im y0ur pr1z3!"
+2. Neutral Language Injection
+•	Tactic: Blend spam with benign phrases.
+•	Example:
+"Hi John, per our meeting, here’s the [MALICIOUS_LINK] you requested."
+3. Hidden Text (HTML)
+•	Tactic: Hide spammy words in email code.
+•	Example:
+<span style="display:none">Win $1000 now!</span> Check this out!
+4. Image-Only Spam
+•	Tactic: Embed text in images to evade text filters.
+•	Example:
+Email with an image: "You’ve won an iPhone! [no text body]"
+5. Unicode Homoglyphs
+•	Tactic: Use look-alike characters.
+•	Example:
+"Рау yоur rаnsоm hеrе" (uses Cyrillic ‘а’ instead of Latin ‘a’).
+6. Token Padding
+•	Tactic: Dilute spammy words with irrelevant text.
+•	Example:
+"The weather is nice today! Free tickets inside! Have a great day!"
+7. Contextual Personalization
+•	Tactic: Use stolen data for credibility.
+•	Example:
+"Hi [Your Real Name], your invoice #1234 is overdue. Pay [MALICIOUS_LINK]."
