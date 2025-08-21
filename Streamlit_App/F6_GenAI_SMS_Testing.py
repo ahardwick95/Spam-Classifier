@@ -12,12 +12,12 @@ def Gen_AI_Model_Comparisons():
     st.markdown("<h1 style='text-align: center;'>Generative Dataset Testing</h1>", unsafe_allow_html=True)
 
     # load up models
-    Bayes = load('Bayes_Model.joblib')
-    LogReg = load('LogReg_Model.joblib')
+    Bayes = load('Streamlit_App/Models/Bayes_Model.joblib')
+    LogReg = load('Streamlit_App/Models/LogReg_Model.joblib')
 
     # load and preprocess the new datasets
-    Spam_df = SpamData_Preprocessor('New_SMS_Dataset.txt')
-    Adv_SMS_df = SpamData_Preprocessor('Adversarial_SMS_Dataset.txt')
+    Spam_df = SpamData_Preprocessor('Streamlit_App/Data/New_SMS_Dataset.txt')
+    Adv_SMS_df = SpamData_Preprocessor('Streamlit_App/Data/Adversarial_SMS_Dataset.txt')
 
     # calculate the features and target variables for each datasets
     Y = Spam_df['Result']
@@ -130,4 +130,5 @@ def Gen_AI_Model_Comparisons():
         st.pyplot(fig2)
     
     st.write("""As we can see , on the new dataset that is similar to the original dataset, logistic regression did relatively well naive bayes did not.
+
              However, on the adversarial dataset, naive bayes did far better then logistic regression. Overall, it can be said that niether model did not generalize as well as expected to the new datasets. """)
