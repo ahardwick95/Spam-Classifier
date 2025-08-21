@@ -3,7 +3,7 @@ import streamlit as st
 def Upgrades():
     # This outlines the future upgrades to the application that can help improve performance
 
-    st.markdown("<h1 style='text-align: center;'>Spam Detector Upgrades</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center;'> PhishDetective Upgrades</h1>", unsafe_allow_html=True)
 
     st.markdown("""The original features developed for this application were based on the frequency of certain artifacts
                 such as special characters or URLs.""" )
@@ -18,6 +18,7 @@ def Upgrades():
     
     
     
+
 
 
 
