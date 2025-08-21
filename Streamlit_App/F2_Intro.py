@@ -3,9 +3,9 @@ def Intro():
 
     # This the first thing the user will see when they load up the application
 
-    st.markdown("<h1 style='text-align: center;'>📧🚫 Spam Predictor</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center;'>📧🚫 PhishDetective</h1>", unsafe_allow_html=True)
 
-    st.markdown("""  Welcome to the spam predictor application!""")
+    st.markdown("""  Welcome to the PhishDetective application!""")
     st.markdown("This software uses features common in real-wolrd spam emails to assess whether a massgae is spam or beningn.")
         
     
@@ -17,3 +17,4 @@ def Intro():
 
 
     st.image("/Streamlit_App/pictures/Spam_Pic_1.png",use_container_width=True)
+
