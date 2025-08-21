@@ -227,7 +227,7 @@ def Spam_Feature_Engineering(DataFrame):
 
 
 def SpamData_Preprocessor(FileName):
-    Vector = load('Vectorizer.joblib')
+    Vector = load('Streamlit_App/Models/Vectorizer.joblib')
     
     Spam_df = text_to_dataframe(FileName) # convert text file to dataframe
     Spam_df = Spam_Feature_Engineering(Spam_df) # apply feature engineering
@@ -274,7 +274,7 @@ def Message_to_dataframe(text):
 
 def Message_Preprocessor(message):
     # This helps to preprocess messages fed into the streamlit app before before processed by our model
-    Vector = load('Vectorizer.joblib')
+    Vector = load('Streamlit_App/Models/Vectorizer.joblib')
     
     Spam_df = Message_to_dataframe(message) # convert text file to dataframe
     Spam_df = Message_Feature_Engineering(Spam_df) # apply feature engineering
@@ -297,7 +297,7 @@ def Message_Preprocessor(message):
 
 def Model_Comp_Preprocessor(Spam_df):
     # This helps to preprocess messages fed into the streamlit app before before processed by our model
-    Vector = load('Vectorizer.joblib')
+    Vector = load('Streamlit_App/Models/Vectorizer.joblib')
     Spam_df['Result'] = Spam_df['Result'].apply(Transform_Target_Spam)
     Spam_df['Text'] = Spam_df['Text'].apply(clean_text) # remove redundant signals from the message
 
