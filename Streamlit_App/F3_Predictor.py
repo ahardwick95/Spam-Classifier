@@ -1,6 +1,6 @@
 import streamlit as st
 from joblib import load
-from Streamlit_App/Scripts/Spam_Preprocessor import Message_Preprocessor
+from Scripts.Spam_Preprocessor import Message_Preprocessor
 
 def Spam_Predictor():
 
@@ -28,4 +28,5 @@ def Spam_Predictor():
 
 
         
+
 
