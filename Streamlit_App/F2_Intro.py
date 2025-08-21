@@ -16,7 +16,8 @@ def Intro():
 
 
 
-    st.image("pictures/Spam_Pic_1.png",use_container_width=True)
+    st.image("Streamlit_App/pictures/Spam_Pic_1.png",use_container_width=True)
+
 
 
 
