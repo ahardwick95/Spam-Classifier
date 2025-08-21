@@ -7,7 +7,7 @@ def Spam_Predictor():
     st.markdown("<h1 style='text-align: center;'>Spam Predictor!</h1>", unsafe_allow_html=True)
 
     # loads the logistic regression model and vectorizer to help transform message
-    LogReg = load('Streamlit_App/Models/LogReg_Model.joblib')
+    LogReg = load("Streamlit_App/Models/LogReg_Model.joblib")
     vectorizer = load("Streamlit_App/Models/Vectorizer.joblib")
 
     # where the user can enter their message
@@ -28,5 +28,6 @@ def Spam_Predictor():
 
 
         
+
 
 
