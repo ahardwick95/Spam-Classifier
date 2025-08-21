@@ -4,7 +4,7 @@ import seaborn as sns
 import streamlit as st
 import matplotlib.pyplot as plt
 from sklearn.metrics import precision_score, recall_score, f1_score
-from Spam_Preprocessor import SpamData_Preprocessor
+from Scripts.Spam_Preprocessor import SpamData_Preprocessor
 from joblib import load
 
 def Gen_AI_Model_Comparisons():
@@ -132,3 +132,4 @@ def Gen_AI_Model_Comparisons():
     st.write("""As we can see , on the new dataset that is similar to the original dataset, logistic regression did relatively well naive bayes did not.
 
              However, on the adversarial dataset, naive bayes did far better then logistic regression. Overall, it can be said that niether model did not generalize as well as expected to the new datasets. """)
+
