@@ -1,14 +1,14 @@
 import streamlit as st
 from joblib import load
-from Spam_Preprocessor import Message_Preprocessor
+from Streamlit_App/Scripts/Spam_Preprocessor import Message_Preprocessor
 
 def Spam_Predictor():
 
     st.markdown("<h1 style='text-align: center;'>Spam Predictor!</h1>", unsafe_allow_html=True)
 
     # loads the logistic regression model and vectorizer to help transform message
-    LogReg = load('LogReg_Model.joblib')
-    vectorizer = load("Vectorizer.joblib")
+    LogReg = load('Streamlit_App/Models/LogReg_Model.joblib')
+    vectorizer = load("Streamlit_App/Models/Vectorizer.joblib")
 
     # where the user can enter their message
     message = st.text_area("Enter a message:")
@@ -28,3 +28,4 @@ def Spam_Predictor():
 
 
         
+
