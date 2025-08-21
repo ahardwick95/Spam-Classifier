@@ -9,7 +9,7 @@ def Spam_Features_Display():
     st.markdown("<h1 style='text-align: center;'>Spam Features</h1>", unsafe_allow_html=True)
 
 
-    Spam_df = pd.read_csv('02_Spam_EDA_Phase.csv')
+    Spam_df = pd.read_csv('Streamlit_App/Data/02_Spam_EDA_Phase.csv')
     count = Spam_df['Result'].value_counts()
 
 
@@ -213,3 +213,4 @@ def Spam_Features_Display():
             ax.set_title("Average Suspcious word count, Spam vs Ham")
             st.pyplot(fig)
             
+
