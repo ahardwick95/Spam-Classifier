@@ -11,8 +11,8 @@ def Model_Comparisons():
     st.markdown("<h1 style='text-align: center;'>Model Comparisons</h1>", unsafe_allow_html=True)
 
     #load the models
-    Bayes = load('Bayes_Model.joblib')
-    LogReg = load('LogReg_Model.joblib')
+    Bayes = load('Streamlit_App/Models/Bayes_Model.joblib')
+    LogReg = load('Streamlit_App/Models/LogReg_Model.joblib')
 
     #load the dataset
     Spam_df = pd.read_csv('Streamlit_App/Data/02_Spam_EDA_Phase.csv')
@@ -106,4 +106,5 @@ def Model_Comparisons():
 
     st.write(""" In this case, SMOTE did not make that much difference in performance and in fact made it worse.
               For this case, it seems feature engineering was enough to distinguish between spam and ham( benign) messages.""")
+
 
