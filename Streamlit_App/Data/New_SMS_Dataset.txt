@@ -1,0 +1,1000 @@
+ham	Thanks for your help with meeting notes earlier today.
+ham	Can you send me the plan before noon?
+ham	Meeting rescheduled to 6:30 on Aug 15. Let me know if that works.
+ham	I left the keys on your desk, check it when you get in.
+ham	The package will arrive at your address by Monday.
+spam	Limited offer! weight loss supplement only $49.99 until midnight! www.claim-now.com
+ham	Meeting rescheduled to tomorrow evening on next week. Let me know if that works.
+ham	Don't forget to bring laptop for training tomorrow.
+ham	Meeting rescheduled to 5pm on Aug 15. Let me know if that works.
+ham	Your internet repair appointment is confirmed for next week.
+ham	I left the book on your desk, check it when you get in.
+ham	Don't forget to bring book for workshop tomorrow.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	I left the laptop on your desk, check it when you get in.
+ham	Don't forget to bring report for the trip tomorrow.
+ham	Can you send me the invoice before noon?
+ham	Dinner at Central Park sounds great! See you at noon.
+ham	Don't forget to bring book for workshop tomorrow.
+ham	Can you send me the invoice before tomorrow evening?
+ham	Hey Jamie, are we still on for lunch at 6:30?
+spam	Exclusive deal: Buy fitness program now and get 50% off! www.claim-now.com
+ham	I left the laptop on your desk, check it when you get in.
+ham	Your car service appointment is confirmed for Aug 15.
+ham	Thanks for your help with meeting notes earlier today.
+ham	I left the book on your desk, check it when you get in.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Your dentist appointment is confirmed for Monday.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Can you send me the plan before 6:30?
+ham	I left the keys on your desk, check it when you get in.
+ham	Thanks for your help with setup earlier today.
+ham	Don't forget to bring report for workshop tomorrow.
+ham	Your dentist appointment is confirmed for Aug 15.
+ham	Meeting rescheduled to 6:30 on Aug 15. Let me know if that works.
+ham	Don't forget to bring laptop for training tomorrow.
+ham	Your cleaning appointment is confirmed for Aug 15.
+ham	Thanks for your help with delivery earlier today.
+ham	Hey Alex, are we still on for game at noon?
+ham	Thanks for your help with meeting notes earlier today.
+spam	Get a loan up to $2000 approved instantly! Visit www.prize-center.org
+ham	Meeting rescheduled to noon on next week. Let me know if that works.
+ham	Thanks for your help with delivery earlier today.
+ham	Can you send me the presentation before 5pm?
+ham	Meeting rescheduled to noon on Monday. Let me know if that works.
+ham	Can you send me the invoice before noon?
+ham	Thanks for your help with delivery earlier today.
+ham	Can you send me the presentation before 5pm?
+ham	Thanks for your help with setup earlier today.
+ham	Your cleaning appointment is confirmed for Friday.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Your cleaning appointment is confirmed for next week.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	I left the laptop on your desk, check it when you get in.
+ham	Hey Alex, are we still on for movie at 6:30?
+ham	I left the laptop on your desk, check it when you get in.
+ham	Your car service appointment is confirmed for Aug 15.
+ham	Thanks for your help with delivery earlier today.
+ham	The package will arrive at your address by Monday.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Dinner at Olive Garden sounds great! See you at tomorrow evening.
+ham	Meeting rescheduled to tomorrow evening on Monday. Let me know if that works.
+ham	Hey Jordan, are we still on for lunch at noon?
+ham	Meeting rescheduled to 5pm on next week. Let me know if that works.
+spam	Limited offer! fitness program only $19.99 until midnight! www.claim-now.com
+ham	Meeting rescheduled to 5pm on Aug 15. Let me know if that works.
+spam	Act now! Your Netflix expires soon. Renew at bit.ly/winBig
+ham	Can you send me the invoice before 6:30?
+ham	I left the laptop on your desk, check it when you get in.
+spam	Get a loan up to $2000 approved instantly! Visit www.prize-center.org
+ham	The package will arrive at your address by Friday.
+spam	URGENT: Your account will be suspended unless you verify at www.claim-now.com
+ham	Hey Taylor, are we still on for game at 5pm?
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Your car service appointment is confirmed for Aug 15.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Can you send me the plan before noon?
+ham	Don't forget to bring report for class tomorrow.
+ham	Thanks for your help with delivery earlier today.
+ham	Dinner at Olive Garden sounds great! See you at 6:30.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Dinner at Olive Garden sounds great! See you at 5pm.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	I left the report on your desk, check it when you get in.
+ham	Hey Taylor, are we still on for movie at 5pm?
+ham	The package will arrive at your address by next week.
+ham	Your internet repair appointment is confirmed for next week.
+ham	I left the laptop on your desk, check it when you get in.
+ham	Hey Jordan, are we still on for meeting at tomorrow evening?
+ham	Hey Chris, are we still on for meeting at 6:30?
+ham	Meeting rescheduled to 5pm on next week. Let me know if that works.
+ham	The package will arrive at your address by Friday.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Hey Jamie, are we still on for game at tomorrow evening?
+ham	Thanks for your help with delivery earlier today.
+ham	Dinner at the mall sounds great! See you at 6:30.
+ham	Your internet repair appointment is confirmed for Aug 15.
+ham	Don't forget to bring laptop for workshop tomorrow.
+ham	Dinner at Olive Garden sounds great! See you at tomorrow evening.
+ham	The package will arrive at your address by Friday.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Can you send me the presentation before tomorrow evening?
+ham	I left the keys on your desk, check it when you get in.
+ham	I left the keys on your desk, check it when you get in.
+ham	The package will arrive at your address by Monday.
+ham	Thanks for your help with setup earlier today.
+ham	Hey Alex, are we still on for movie at noon?
+ham	Your dentist appointment is confirmed for next week.
+ham	Dinner at the cafe sounds great! See you at 6:30.
+ham	Hey Jamie, are we still on for lunch at 5pm?
+ham	Can you send me the plan before 6:30?
+ham	Hey Jordan, are we still on for meeting at tomorrow evening?
+ham	Your dentist appointment is confirmed for Monday.
+spam	URGENT: Your account will be suspended unless you verify at www.claim-now.com
+spam	Act now! Your Amazon Prime expires soon. Renew at www.secure-update.net
+ham	Can you send me the plan before 6:30?
+ham	Can you send me the presentation before tomorrow evening?
+ham	Dinner at Olive Garden sounds great! See you at 6:30.
+ham	Dinner at Olive Garden sounds great! See you at 5pm.
+ham	Meeting rescheduled to 5pm on Friday. Let me know if that works.
+ham	Thanks for your help with setup earlier today.
+ham	I left the laptop on your desk, check it when you get in.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Your cleaning appointment is confirmed for Aug 15.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Thanks for your help with setup earlier today.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Thanks for your help with delivery earlier today.
+spam	Exclusive deal: Buy weight loss supplement now and get 50% off! www.claim-now.com
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Don't forget to bring keys for workshop tomorrow.
+ham	Dinner at Central Park sounds great! See you at tomorrow evening.
+ham	I left the report on your desk, check it when you get in.
+ham	Dinner at the mall sounds great! See you at tomorrow evening.
+ham	Meeting rescheduled to tomorrow evening on Friday. Let me know if that works.
+ham	Don't forget to bring book for the trip tomorrow.
+ham	Thanks for your help with delivery earlier today.
+ham	Your car service appointment is confirmed for Friday.
+ham	Don't forget to bring keys for workshop tomorrow.
+spam	Earn $2000 working from home! Start today at www.prize-center.org
+ham	Don't forget to bring laptop for the trip tomorrow.
+ham	I left the keys on your desk, check it when you get in.
+ham	Thanks for your help with delivery earlier today.
+ham	Meeting rescheduled to 6:30 on Monday. Let me know if that works.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Meeting rescheduled to 5pm on Monday. Let me know if that works.
+ham	Can you send me the plan before noon?
+ham	Meeting rescheduled to noon on next week. Let me know if that works.
+ham	Hey Jordan, are we still on for lunch at noon?
+ham	Dinner at the mall sounds great! See you at 5pm.
+ham	Your cleaning appointment is confirmed for Monday.
+ham	The package will arrive at your address by Friday.
+ham	Don't forget to bring laptop for the trip tomorrow.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	The package will arrive at your address by Aug 15.
+ham	Hey Alex, are we still on for game at 6:30?
+ham	The package will arrive at your address by Friday.
+ham	Thanks for your help with delivery earlier today.
+ham	Your internet repair appointment is confirmed for Aug 15.
+ham	Meeting rescheduled to noon on Aug 15. Let me know if that works.
+ham	Can you send me the invoice before noon?
+ham	I left the book on your desk, check it when you get in.
+spam	Congratulations! You've won a $1000 gift card! Claim now at www.secure-update.net
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Dinner at the mall sounds great! See you at tomorrow evening.
+ham	Can you send me the plan before 5pm?
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	I left the book on your desk, check it when you get in.
+ham	Your cleaning appointment is confirmed for Monday.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Don't forget to bring laptop for the trip tomorrow.
+ham	Your cleaning appointment is confirmed for next week.
+ham	Meeting rescheduled to noon on Friday. Let me know if that works.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Don't forget to bring book for the trip tomorrow.
+ham	Your dentist appointment is confirmed for Friday.
+spam	Exclusive deal: Buy smartwatch now and get 50% off! bit.ly/winBig
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Can you send me the invoice before 5pm?
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Don't forget to bring keys for the trip tomorrow.
+spam	Exclusive deal: Buy weight loss supplement now and get 50% off! www.prize-center.org
+ham	Your car service appointment is confirmed for Monday.
+ham	Dinner at Central Park sounds great! See you at tomorrow evening.
+ham	Meeting rescheduled to tomorrow evening on next week. Let me know if that works.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Your internet repair appointment is confirmed for Monday.
+ham	Your dentist appointment is confirmed for next week.
+ham	Your internet repair appointment is confirmed for next week.
+ham	Your car service appointment is confirmed for Monday.
+ham	Don't forget to bring keys for the trip tomorrow.
+ham	I left the book on your desk, check it when you get in.
+ham	Don't forget to bring book for training tomorrow.
+ham	Don't forget to bring keys for training tomorrow.
+ham	I left the report on your desk, check it when you get in.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	I left the laptop on your desk, check it when you get in.
+ham	Don't forget to bring keys for class tomorrow.
+ham	Don't forget to bring report for training tomorrow.
+ham	Your cleaning appointment is confirmed for next week.
+ham	Your car service appointment is confirmed for Aug 15.
+ham	Meeting rescheduled to noon on Friday. Let me know if that works.
+ham	Can you send me the plan before tomorrow evening?
+ham	Don't forget to bring book for the trip tomorrow.
+ham	The package will arrive at your address by next week.
+ham	I left the book on your desk, check it when you get in.
+ham	I left the laptop on your desk, check it when you get in.
+ham	Hey Chris, are we still on for game at tomorrow evening?
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Hey Jamie, are we still on for movie at tomorrow evening?
+ham	Meeting rescheduled to 5pm on Monday. Let me know if that works.
+ham	Dinner at the cafe sounds great! See you at tomorrow evening.
+ham	Dinner at the cafe sounds great! See you at tomorrow evening.
+ham	Congrats on your promotion! Let's celebrate soon.
+spam	You have been selected for a free membership! Call 1-877-123-4567 to claim.
+ham	Meeting rescheduled to tomorrow evening on Aug 15. Let me know if that works.
+ham	Don't forget to bring report for class tomorrow.
+ham	Meeting rescheduled to 6:30 on Friday. Let me know if that works.
+ham	Your dentist appointment is confirmed for next week.
+ham	The package will arrive at your address by Monday.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Hey Taylor, are we still on for meeting at 5pm?
+spam	You've been pre-approved for a $10000 credit line! bit.ly/winBig
+ham	Meeting rescheduled to 5pm on Aug 15. Let me know if that works.
+ham	Your internet repair appointment is confirmed for Monday.
+ham	Can you send me the presentation before tomorrow evening?
+spam	FREE entry into our $10,000 cash draw! Click www.secure-update.net
+ham	Meeting rescheduled to 5pm on Aug 15. Let me know if that works.
+spam	FREE entry into our $10,000 cash draw! Click www.prize-center.org
+ham	Meeting rescheduled to tomorrow evening on Monday. Let me know if that works.
+spam	Act now! Your Amazon Prime expires soon. Renew at bit.ly/winBig
+ham	Don't forget to bring laptop for class tomorrow.
+ham	The package will arrive at your address by next week.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Dinner at Central Park sounds great! See you at 5pm.
+ham	Dinner at the mall sounds great! See you at 5pm.
+ham	Meeting rescheduled to tomorrow evening on Monday. Let me know if that works.
+ham	Hey Jamie, are we still on for lunch at tomorrow evening?
+spam	You have been selected for a free shopping voucher! Call 1-877-123-4567 to claim.
+ham	Hey Jamie, are we still on for meeting at 5pm?
+ham	Meeting rescheduled to 5pm on Monday. Let me know if that works.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Dinner at Central Park sounds great! See you at 6:30.
+ham	Thanks for your help with delivery earlier today.
+ham	The package will arrive at your address by Friday.
+ham	Your dentist appointment is confirmed for Aug 15.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Don't forget to bring book for the trip tomorrow.
+ham	I left the book on your desk, check it when you get in.
+ham	I left the laptop on your desk, check it when you get in.
+ham	The package will arrive at your address by Aug 15.
+ham	Meeting rescheduled to 6:30 on next week. Let me know if that works.
+ham	Don't forget to bring report for class tomorrow.
+ham	Meeting rescheduled to noon on Friday. Let me know if that works.
+ham	The package will arrive at your address by Aug 15.
+ham	Your dentist appointment is confirmed for Aug 15.
+ham	Meeting rescheduled to 6:30 on Friday. Let me know if that works.
+ham	I left the report on your desk, check it when you get in.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	The package will arrive at your address by next week.
+ham	Can you send me the invoice before 5pm?
+ham	Thanks for your help with delivery earlier today.
+ham	Your car service appointment is confirmed for Friday.
+ham	Don't forget to bring report for class tomorrow.
+ham	Don't forget to bring report for workshop tomorrow.
+ham	Meeting rescheduled to 5pm on Monday. Let me know if that works.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Dinner at the cafe sounds great! See you at 6:30.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Don't forget to bring laptop for workshop tomorrow.
+ham	Can you send me the plan before 6:30?
+ham	Your car service appointment is confirmed for Friday.
+ham	Dinner at the cafe sounds great! See you at noon.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	I left the keys on your desk, check it when you get in.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Meeting rescheduled to 6:30 on next week. Let me know if that works.
+ham	Thanks for your help with delivery earlier today.
+ham	Can you send me the plan before noon?
+ham	Thanks for your help with meeting notes earlier today.
+ham	Don't forget to bring report for workshop tomorrow.
+ham	I left the keys on your desk, check it when you get in.
+ham	Dinner at the mall sounds great! See you at noon.
+ham	Don't forget to bring laptop for the trip tomorrow.
+ham	The package will arrive at your address by next week.
+ham	Hey Taylor, are we still on for game at 6:30?
+ham	Can you send me the invoice before noon?
+spam	URGENT: Your account will be suspended unless you verify at www.prize-center.org
+ham	Can you send me the plan before 6:30?
+ham	I left the laptop on your desk, check it when you get in.
+ham	I left the laptop on your desk, check it when you get in.
+ham	Hey Alex, are we still on for meeting at noon?
+spam	Exclusive deal: Buy investment guide now and get 50% off! www.secure-update.net
+ham	Don't forget to bring report for class tomorrow.
+ham	Dinner at the mall sounds great! See you at 5pm.
+ham	Can you send me the invoice before 5pm?
+ham	Don't forget to bring keys for workshop tomorrow.
+ham	Can you send me the presentation before 6:30?
+ham	Thanks for your help with delivery earlier today.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Don't forget to bring book for workshop tomorrow.
+ham	Meeting rescheduled to tomorrow evening on Monday. Let me know if that works.
+spam	Exclusive deal: Buy investment guide now and get 50% off! bit.ly/winBig
+ham	Your dentist appointment is confirmed for next week.
+ham	Your internet repair appointment is confirmed for Friday.
+ham	Dinner at the cafe sounds great! See you at 6:30.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Your dentist appointment is confirmed for Monday.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Can you send me the plan before 6:30?
+ham	Congrats on your new job! Let's celebrate soon.
+ham	The package will arrive at your address by next week.
+ham	Your internet repair appointment is confirmed for next week.
+ham	Can you send me the presentation before 6:30?
+ham	Meeting rescheduled to noon on Aug 15. Let me know if that works.
+ham	The package will arrive at your address by Aug 15.
+ham	Thanks for your help with meeting notes earlier today.
+spam	Get a loan up to $10000 approved instantly! Visit bit.ly/winBig
+ham	Meeting rescheduled to noon on next week. Let me know if that works.
+ham	Hey Jamie, are we still on for movie at noon?
+ham	Your cleaning appointment is confirmed for Monday.
+ham	Don't forget to bring keys for workshop tomorrow.
+ham	Don't forget to bring keys for training tomorrow.
+ham	Meeting rescheduled to 6:30 on Aug 15. Let me know if that works.
+ham	Can you send me the invoice before 6:30?
+ham	Can you send me the plan before 5pm?
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Dinner at Olive Garden sounds great! See you at 6:30.
+ham	Meeting rescheduled to tomorrow evening on next week. Let me know if that works.
+ham	The package will arrive at your address by Aug 15.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Meeting rescheduled to tomorrow evening on Aug 15. Let me know if that works.
+ham	Thanks for your help with delivery earlier today.
+ham	Thanks for your help with setup earlier today.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Hey Chris, are we still on for game at tomorrow evening?
+ham	Dinner at Olive Garden sounds great! See you at noon.
+ham	I left the keys on your desk, check it when you get in.
+ham	Your dentist appointment is confirmed for Aug 15.
+ham	Don't forget to bring book for the trip tomorrow.
+ham	Dinner at Olive Garden sounds great! See you at 5pm.
+ham	Thanks for your help with setup earlier today.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Hey Alex, are we still on for lunch at noon?
+ham	Can you send me the invoice before 6:30?
+ham	Dinner at Olive Garden sounds great! See you at 6:30.
+ham	Hey Taylor, are we still on for movie at tomorrow evening?
+ham	Dinner at Central Park sounds great! See you at noon.
+ham	Can you send me the presentation before noon?
+ham	I left the laptop on your desk, check it when you get in.
+ham	Your dentist appointment is confirmed for Friday.
+ham	Don't forget to bring keys for workshop tomorrow.
+ham	The package will arrive at your address by Monday.
+ham	Dinner at Central Park sounds great! See you at noon.
+ham	I left the book on your desk, check it when you get in.
+spam	URGENT: Your account will be suspended unless you verify at www.claim-now.com
+ham	Hey Chris, are we still on for meeting at noon?
+ham	Your cleaning appointment is confirmed for next week.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Dinner at the cafe sounds great! See you at 6:30.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Dinner at Central Park sounds great! See you at noon.
+spam	Get a loan up to $5000 approved instantly! Visit www.secure-update.net
+ham	The package will arrive at your address by next week.
+ham	Can you send me the plan before 6:30?
+ham	Don't forget to bring keys for training tomorrow.
+spam	Earn $2000 working from home! Start today at www.claim-now.com
+ham	The package will arrive at your address by Aug 15.
+ham	Dinner at Olive Garden sounds great! See you at noon.
+ham	Dinner at Olive Garden sounds great! See you at noon.
+ham	Can you send me the presentation before noon?
+ham	Hey Jamie, are we still on for lunch at 5pm?
+ham	Thanks for your help with setup earlier today.
+ham	Hey Jordan, are we still on for movie at tomorrow evening?
+ham	I left the keys on your desk, check it when you get in.
+ham	Thanks for your help with setup earlier today.
+ham	Don't forget to bring keys for the trip tomorrow.
+ham	Can you send me the invoice before 5pm?
+ham	Hey Alex, are we still on for game at 5pm?
+ham	The package will arrive at your address by next week.
+ham	Thanks for your help with setup earlier today.
+ham	The package will arrive at your address by Aug 15.
+ham	Your cleaning appointment is confirmed for Friday.
+ham	I left the book on your desk, check it when you get in.
+ham	Dinner at Olive Garden sounds great! See you at tomorrow evening.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Thanks for your help with setup earlier today.
+ham	Meeting rescheduled to 6:30 on Friday. Let me know if that works.
+ham	Can you send me the plan before 6:30?
+ham	Your cleaning appointment is confirmed for Friday.
+ham	Don't forget to bring book for training tomorrow.
+ham	Meeting rescheduled to 5pm on Friday. Let me know if that works.
+ham	Thanks for your help with delivery earlier today.
+ham	Can you send me the plan before 6:30?
+ham	Don't forget to bring report for the trip tomorrow.
+ham	Dinner at the mall sounds great! See you at noon.
+ham	Can you send me the invoice before tomorrow evening?
+ham	Can you send me the plan before 5pm?
+ham	Your internet repair appointment is confirmed for Monday.
+ham	The package will arrive at your address by Friday.
+ham	Thanks for your help with delivery earlier today.
+ham	Meeting rescheduled to noon on Aug 15. Let me know if that works.
+ham	Meeting rescheduled to noon on Monday. Let me know if that works.
+ham	Meeting rescheduled to tomorrow evening on next week. Let me know if that works.
+ham	The package will arrive at your address by Friday.
+ham	Meeting rescheduled to 5pm on next week. Let me know if that works.
+ham	Hey Alex, are we still on for lunch at noon?
+ham	I left the book on your desk, check it when you get in.
+ham	Can you send me the presentation before 6:30?
+ham	I left the laptop on your desk, check it when you get in.
+spam	Exclusive deal: Buy fitness program now and get 50% off! www.secure-update.net
+ham	Don't forget to bring keys for class tomorrow.
+ham	I left the report on your desk, check it when you get in.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Thanks for your help with setup earlier today.
+ham	Hey Taylor, are we still on for lunch at 5pm?
+ham	Can you send me the invoice before tomorrow evening?
+ham	Hey Taylor, are we still on for lunch at 6:30?
+ham	Don't forget to bring book for the trip tomorrow.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Hey Taylor, are we still on for movie at 5pm?
+ham	Meeting rescheduled to tomorrow evening on Monday. Let me know if that works.
+ham	The package will arrive at your address by next week.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Meeting rescheduled to 6:30 on Friday. Let me know if that works.
+spam	You have been selected for a free membership! Call 1-800-555-0199 to claim.
+ham	Thanks for your help with meeting notes earlier today.
+ham	The package will arrive at your address by Friday.
+ham	Hey Chris, are we still on for movie at tomorrow evening?
+ham	Thanks for your help with meeting notes earlier today.
+ham	Hey Jamie, are we still on for meeting at noon?
+ham	Can you send me the presentation before noon?
+ham	Don't forget to bring laptop for workshop tomorrow.
+ham	Hey Alex, are we still on for movie at 5pm?
+ham	Can you send me the invoice before tomorrow evening?
+ham	Hey Jordan, are we still on for game at tomorrow evening?
+ham	Can you send me the invoice before 5pm?
+spam	You've been pre-approved for a $2000 credit line! www.prize-center.org
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Don't forget to bring book for the trip tomorrow.
+ham	I left the report on your desk, check it when you get in.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Hey Alex, are we still on for game at noon?
+ham	Don't forget to bring laptop for workshop tomorrow.
+ham	Meeting rescheduled to noon on Friday. Let me know if that works.
+ham	Meeting rescheduled to 5pm on Monday. Let me know if that works.
+ham	Dinner at the cafe sounds great! See you at 6:30.
+ham	Meeting rescheduled to tomorrow evening on Monday. Let me know if that works.
+ham	Don't forget to bring book for training tomorrow.
+ham	Thanks for your help with delivery earlier today.
+ham	Meeting rescheduled to 5pm on Aug 15. Let me know if that works.
+ham	Can you send me the invoice before noon?
+ham	Hey Jordan, are we still on for meeting at 6:30?
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Can you send me the presentation before 5pm?
+ham	I left the book on your desk, check it when you get in.
+ham	Hey Jordan, are we still on for movie at noon?
+ham	The package will arrive at your address by Friday.
+ham	Your dentist appointment is confirmed for Monday.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Thanks for your help with setup earlier today.
+ham	Can you send me the plan before noon?
+ham	Don't forget to bring report for the trip tomorrow.
+spam	You have been selected for a free shopping voucher! Call 1-877-123-4567 to claim.
+ham	Meeting rescheduled to tomorrow evening on next week. Let me know if that works.
+ham	The package will arrive at your address by Monday.
+ham	The package will arrive at your address by Aug 15.
+ham	Don't forget to bring report for the trip tomorrow.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	I left the report on your desk, check it when you get in.
+ham	Thanks for your help with delivery earlier today.
+ham	Thanks for your help with meeting notes earlier today.
+ham	The package will arrive at your address by Monday.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Can you send me the invoice before noon?
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Don't forget to bring laptop for training tomorrow.
+ham	Your dentist appointment is confirmed for Aug 15.
+spam	You've been pre-approved for a $10000 credit line! bit.ly/winBig
+ham	Can you send me the invoice before tomorrow evening?
+ham	The package will arrive at your address by Monday.
+ham	Hey Chris, are we still on for meeting at 6:30?
+ham	Can you send me the presentation before tomorrow evening?
+ham	The package will arrive at your address by Aug 15.
+ham	Don't forget to bring laptop for workshop tomorrow.
+ham	Don't forget to bring book for training tomorrow.
+ham	Don't forget to bring report for the trip tomorrow.
+ham	Don't forget to bring laptop for workshop tomorrow.
+ham	Can you send me the plan before 6:30?
+ham	Don't forget to bring laptop for workshop tomorrow.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	I left the laptop on your desk, check it when you get in.
+ham	Your internet repair appointment is confirmed for Aug 15.
+ham	Can you send me the invoice before 6:30?
+ham	Meeting rescheduled to tomorrow evening on Friday. Let me know if that works.
+ham	Dinner at the cafe sounds great! See you at 5pm.
+ham	Your dentist appointment is confirmed for Friday.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Can you send me the presentation before 5pm?
+ham	I left the laptop on your desk, check it when you get in.
+ham	Dinner at the mall sounds great! See you at 5pm.
+ham	Don't forget to bring keys for training tomorrow.
+ham	Your dentist appointment is confirmed for next week.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Can you send me the presentation before 5pm?
+ham	Hey Jordan, are we still on for movie at 5pm?
+ham	Meeting rescheduled to 5pm on next week. Let me know if that works.
+ham	Meeting rescheduled to 6:30 on Monday. Let me know if that works.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Can you send me the plan before 5pm?
+ham	Thanks for your help with delivery earlier today.
+ham	Meeting rescheduled to tomorrow evening on Monday. Let me know if that works.
+ham	Hey Jamie, are we still on for lunch at tomorrow evening?
+ham	Your dentist appointment is confirmed for Monday.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Thanks for your help with delivery earlier today.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Dinner at Olive Garden sounds great! See you at noon.
+ham	Hey Alex, are we still on for movie at 5pm?
+ham	The package will arrive at your address by next week.
+spam	Get a loan up to $2000 approved instantly! Visit bit.ly/winBig
+ham	Can you send me the invoice before tomorrow evening?
+ham	Don't forget to bring laptop for workshop tomorrow.
+ham	Don't forget to bring book for training tomorrow.
+ham	Thanks for your help with meeting notes earlier today.
+ham	The package will arrive at your address by next week.
+ham	Your car service appointment is confirmed for Aug 15.
+ham	The package will arrive at your address by next week.
+ham	Dinner at Olive Garden sounds great! See you at tomorrow evening.
+ham	I left the laptop on your desk, check it when you get in.
+ham	Meeting rescheduled to tomorrow evening on Friday. Let me know if that works.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	The package will arrive at your address by Friday.
+ham	The package will arrive at your address by Monday.
+ham	Thanks for your help with delivery earlier today.
+ham	Hey Taylor, are we still on for lunch at 6:30?
+ham	Hey Jamie, are we still on for meeting at noon?
+ham	Thanks for your help with meeting notes earlier today.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Meeting rescheduled to 6:30 on next week. Let me know if that works.
+ham	Don't forget to bring book for workshop tomorrow.
+ham	Your dentist appointment is confirmed for Monday.
+ham	Your cleaning appointment is confirmed for Monday.
+ham	Thanks for your help with delivery earlier today.
+ham	Your dentist appointment is confirmed for Aug 15.
+ham	I left the book on your desk, check it when you get in.
+ham	I left the book on your desk, check it when you get in.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	The package will arrive at your address by Monday.
+ham	Meeting rescheduled to 6:30 on Aug 15. Let me know if that works.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Hey Alex, are we still on for meeting at noon?
+ham	I left the keys on your desk, check it when you get in.
+ham	I left the book on your desk, check it when you get in.
+ham	Your car service appointment is confirmed for Aug 15.
+ham	Don't forget to bring book for workshop tomorrow.
+ham	Thanks for your help with delivery earlier today.
+ham	Your dentist appointment is confirmed for next week.
+ham	Hey Alex, are we still on for lunch at tomorrow evening?
+ham	Meeting rescheduled to 6:30 on Friday. Let me know if that works.
+ham	Your internet repair appointment is confirmed for next week.
+ham	I left the report on your desk, check it when you get in.
+ham	Meeting rescheduled to 6:30 on Friday. Let me know if that works.
+ham	Your internet repair appointment is confirmed for next week.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Don't forget to bring laptop for class tomorrow.
+ham	Meeting rescheduled to 6:30 on Monday. Let me know if that works.
+ham	Don't forget to bring report for class tomorrow.
+ham	Thanks for your help with delivery earlier today.
+ham	The package will arrive at your address by Aug 15.
+ham	I left the book on your desk, check it when you get in.
+ham	Meeting rescheduled to 5pm on next week. Let me know if that works.
+ham	Thanks for your help with setup earlier today.
+ham	Your car service appointment is confirmed for Friday.
+ham	Don't forget to bring report for class tomorrow.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Thanks for your help with setup earlier today.
+ham	Don't forget to bring book for training tomorrow.
+ham	Thanks for your help with delivery earlier today.
+ham	Meeting rescheduled to tomorrow evening on Friday. Let me know if that works.
+ham	Dinner at Central Park sounds great! See you at 6:30.
+ham	Thanks for your help with delivery earlier today.
+ham	Thanks for your help with setup earlier today.
+ham	Your dentist appointment is confirmed for Aug 15.
+ham	The package will arrive at your address by Friday.
+ham	I left the laptop on your desk, check it when you get in.
+ham	Don't forget to bring laptop for the trip tomorrow.
+ham	I left the book on your desk, check it when you get in.
+ham	Your dentist appointment is confirmed for Friday.
+ham	Meeting rescheduled to 6:30 on Friday. Let me know if that works.
+ham	Dinner at the cafe sounds great! See you at noon.
+ham	Dinner at the mall sounds great! See you at 6:30.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Don't forget to bring laptop for workshop tomorrow.
+ham	The package will arrive at your address by Monday.
+ham	I left the report on your desk, check it when you get in.
+ham	Can you send me the invoice before 6:30?
+ham	Hey Chris, are we still on for movie at noon?
+ham	Dinner at Central Park sounds great! See you at 6:30.
+ham	The package will arrive at your address by Monday.
+ham	Meeting rescheduled to 6:30 on Monday. Let me know if that works.
+ham	Your dentist appointment is confirmed for Friday.
+ham	Hey Taylor, are we still on for lunch at noon?
+ham	Your cleaning appointment is confirmed for next week.
+ham	Can you send me the plan before noon?
+ham	Can you send me the presentation before noon?
+ham	Hey Taylor, are we still on for meeting at 5pm?
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Your cleaning appointment is confirmed for Aug 15.
+spam	FREE entry into our $10,000 cash draw! Click www.prize-center.org
+ham	Meeting rescheduled to noon on Monday. Let me know if that works.
+ham	Meeting rescheduled to tomorrow evening on Monday. Let me know if that works.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Thanks for your help with delivery earlier today.
+ham	Thanks for your help with delivery earlier today.
+ham	Thanks for your help with setup earlier today.
+ham	Don't forget to bring laptop for the trip tomorrow.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Meeting rescheduled to tomorrow evening on Aug 15. Let me know if that works.
+ham	I left the book on your desk, check it when you get in.
+ham	Meeting rescheduled to tomorrow evening on next week. Let me know if that works.
+ham	Meeting rescheduled to tomorrow evening on Friday. Let me know if that works.
+ham	Don't forget to bring laptop for workshop tomorrow.
+ham	I left the laptop on your desk, check it when you get in.
+spam	You have been selected for a free shopping voucher! Call 1-877-123-4567 to claim.
+ham	The package will arrive at your address by Monday.
+ham	Don't forget to bring keys for training tomorrow.
+ham	Hey Jordan, are we still on for game at noon?
+ham	Thanks for your help with setup earlier today.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	I left the laptop on your desk, check it when you get in.
+ham	Meeting rescheduled to 6:30 on Friday. Let me know if that works.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Thanks for your help with delivery earlier today.
+spam	Act now! Your Spotify expires soon. Renew at www.claim-now.com
+ham	Dinner at Central Park sounds great! See you at noon.
+ham	Your cleaning appointment is confirmed for Aug 15.
+ham	Meeting rescheduled to 6:30 on Friday. Let me know if that works.
+ham	The package will arrive at your address by Monday.
+ham	Meeting rescheduled to noon on Monday. Let me know if that works.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Hey Chris, are we still on for meeting at 5pm?
+ham	Don't forget to bring laptop for class tomorrow.
+ham	Thanks for your help with delivery earlier today.
+ham	Hey Jordan, are we still on for game at 6:30?
+ham	Meeting rescheduled to 6:30 on next week. Let me know if that works.
+ham	Meeting rescheduled to tomorrow evening on next week. Let me know if that works.
+ham	Can you send me the invoice before 5pm?
+ham	The package will arrive at your address by Aug 15.
+ham	I left the report on your desk, check it when you get in.
+ham	Hey Jamie, are we still on for movie at 5pm?
+ham	Don't forget to bring report for workshop tomorrow.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Hey Jordan, are we still on for meeting at 6:30?
+ham	Can you send me the plan before 5pm?
+ham	The package will arrive at your address by Aug 15.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Dinner at Central Park sounds great! See you at tomorrow evening.
+ham	Meeting rescheduled to noon on Aug 15. Let me know if that works.
+ham	I left the book on your desk, check it when you get in.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Meeting rescheduled to tomorrow evening on Monday. Let me know if that works.
+ham	The package will arrive at your address by next week.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Your cleaning appointment is confirmed for Monday.
+ham	I left the keys on your desk, check it when you get in.
+ham	Can you send me the presentation before 6:30?
+ham	Thanks for your help with delivery earlier today.
+ham	Meeting rescheduled to 5pm on Aug 15. Let me know if that works.
+ham	Can you send me the presentation before noon?
+ham	I left the book on your desk, check it when you get in.
+ham	Can you send me the presentation before 6:30?
+spam	Act now! Your Spotify expires soon. Renew at www.secure-update.net
+ham	Can you send me the invoice before 6:30?
+ham	I left the laptop on your desk, check it when you get in.
+ham	Thanks for your help with setup earlier today.
+ham	I left the book on your desk, check it when you get in.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Your car service appointment is confirmed for next week.
+ham	Meeting rescheduled to 5pm on Monday. Let me know if that works.
+ham	The package will arrive at your address by next week.
+ham	Your car service appointment is confirmed for Friday.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Dinner at Olive Garden sounds great! See you at tomorrow evening.
+ham	Can you send me the presentation before tomorrow evening?
+ham	Your cleaning appointment is confirmed for Friday.
+ham	Meeting rescheduled to 5pm on Monday. Let me know if that works.
+ham	Can you send me the plan before tomorrow evening?
+ham	Thanks for your help with meeting notes earlier today.
+ham	I left the laptop on your desk, check it when you get in.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Hey Alex, are we still on for meeting at 6:30?
+ham	Don't forget to bring keys for training tomorrow.
+ham	Your car service appointment is confirmed for next week.
+ham	Don't forget to bring book for the trip tomorrow.
+ham	Thanks for your help with setup earlier today.
+ham	Hey Taylor, are we still on for meeting at 5pm?
+ham	Thanks for your help with meeting notes earlier today.
+ham	Don't forget to bring book for class tomorrow.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Dinner at Olive Garden sounds great! See you at noon.
+ham	Dinner at Central Park sounds great! See you at 6:30.
+ham	I left the keys on your desk, check it when you get in.
+ham	Meeting rescheduled to 6:30 on Aug 15. Let me know if that works.
+ham	Hey Chris, are we still on for game at 6:30?
+ham	Dinner at Central Park sounds great! See you at 6:30.
+ham	Thanks for your help with setup earlier today.
+ham	Meeting rescheduled to tomorrow evening on Monday. Let me know if that works.
+ham	Congrats on your new job! Let's celebrate soon.
+spam	You have been selected for a free membership! Call 1-877-123-4567 to claim.
+ham	Meeting rescheduled to tomorrow evening on Friday. Let me know if that works.
+ham	The package will arrive at your address by next week.
+ham	The package will arrive at your address by Friday.
+ham	Thanks for your help with delivery earlier today.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	I left the laptop on your desk, check it when you get in.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	I left the keys on your desk, check it when you get in.
+ham	Meeting rescheduled to noon on Friday. Let me know if that works.
+ham	Meeting rescheduled to 6:30 on Aug 15. Let me know if that works.
+ham	Can you send me the invoice before 5pm?
+ham	Hey Alex, are we still on for game at 6:30?
+spam	Get a loan up to $10000 approved instantly! Visit www.claim-now.com
+ham	The package will arrive at your address by next week.
+ham	The package will arrive at your address by Friday.
+ham	Your car service appointment is confirmed for Monday.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Your cleaning appointment is confirmed for Monday.
+ham	Thanks for your help with meeting notes earlier today.
+ham	The package will arrive at your address by Friday.
+ham	Can you send me the invoice before noon?
+ham	Thanks for your help with meeting notes earlier today.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Your internet repair appointment is confirmed for next week.
+ham	Hey Taylor, are we still on for game at tomorrow evening?
+ham	Don't forget to bring laptop for training tomorrow.
+ham	Can you send me the invoice before 5pm?
+ham	Don't forget to bring book for class tomorrow.
+ham	Meeting rescheduled to 6:30 on Friday. Let me know if that works.
+spam	Limited offer! smartwatch only $19.99 until midnight! www.claim-now.com
+ham	Meeting rescheduled to 5pm on Friday. Let me know if that works.
+ham	I left the keys on your desk, check it when you get in.
+ham	Don't forget to bring laptop for training tomorrow.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Dinner at the mall sounds great! See you at tomorrow evening.
+ham	Meeting rescheduled to tomorrow evening on Friday. Let me know if that works.
+ham	Can you send me the presentation before 6:30?
+ham	Thanks for your help with meeting notes earlier today.
+ham	Hey Jordan, are we still on for game at tomorrow evening?
+ham	Meeting rescheduled to 6:30 on next week. Let me know if that works.
+ham	Meeting rescheduled to 5pm on Friday. Let me know if that works.
+ham	Don't forget to bring book for workshop tomorrow.
+ham	Can you send me the plan before tomorrow evening?
+ham	Your internet repair appointment is confirmed for Aug 15.
+ham	Thanks for your help with delivery earlier today.
+ham	Your car service appointment is confirmed for Friday.
+ham	Dinner at the cafe sounds great! See you at 6:30.
+ham	Meeting rescheduled to 6:30 on Aug 15. Let me know if that works.
+ham	Dinner at the cafe sounds great! See you at 6:30.
+ham	Can you send me the invoice before noon?
+ham	Can you send me the invoice before noon?
+spam	Limited offer! investment guide only $19.99 until midnight! www.prize-center.org
+ham	Meeting rescheduled to 5pm on Aug 15. Let me know if that works.
+ham	Dinner at the mall sounds great! See you at 6:30.
+ham	The package will arrive at your address by Friday.
+ham	I left the report on your desk, check it when you get in.
+ham	Your cleaning appointment is confirmed for Friday.
+ham	Meeting rescheduled to noon on Friday. Let me know if that works.
+ham	Your car service appointment is confirmed for Friday.
+ham	Can you send me the presentation before tomorrow evening?
+ham	Thanks for your help with delivery earlier today.
+ham	Meeting rescheduled to 6:30 on Friday. Let me know if that works.
+ham	Hey Chris, are we still on for movie at noon?
+spam	Get a loan up to $5000 approved instantly! Visit www.prize-center.org
+ham	The package will arrive at your address by next week.
+ham	Can you send me the invoice before 6:30?
+ham	Thanks for your help with meeting notes earlier today.
+ham	Meeting rescheduled to 5pm on next week. Let me know if that works.
+ham	Dinner at Olive Garden sounds great! See you at 6:30.
+ham	The package will arrive at your address by next week.
+ham	Don't forget to bring laptop for training tomorrow.
+ham	Dinner at Central Park sounds great! See you at noon.
+ham	Can you send me the plan before 6:30?
+ham	Can you send me the presentation before 5pm?
+ham	Meeting rescheduled to 6:30 on Aug 15. Let me know if that works.
+ham	Don't forget to bring laptop for class tomorrow.
+spam	Limited offer! weight loss supplement only $49.99 until midnight! www.claim-now.com
+ham	Your cleaning appointment is confirmed for Aug 15.
+ham	Meeting rescheduled to noon on next week. Let me know if that works.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Dinner at Central Park sounds great! See you at noon.
+ham	I left the keys on your desk, check it when you get in.
+ham	The package will arrive at your address by Monday.
+ham	Dinner at Central Park sounds great! See you at tomorrow evening.
+ham	The package will arrive at your address by Aug 15.
+ham	Don't forget to bring laptop for class tomorrow.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Can you send me the presentation before 6:30?
+ham	Can you send me the plan before tomorrow evening?
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Hey Jordan, are we still on for movie at noon?
+ham	Thanks for your help with setup earlier today.
+ham	Thanks for your help with setup earlier today.
+ham	Hey Chris, are we still on for game at tomorrow evening?
+ham	Thanks for your help with setup earlier today.
+ham	Hey Jamie, are we still on for meeting at 6:30?
+ham	I left the laptop on your desk, check it when you get in.
+ham	Dinner at the mall sounds great! See you at 6:30.
+ham	Congrats on your graduation! Let's celebrate soon.
+spam	Limited offer! fitness program only $9.99 until midnight! www.prize-center.org
+ham	The package will arrive at your address by next week.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Can you send me the presentation before noon?
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	The package will arrive at your address by next week.
+ham	The package will arrive at your address by Monday.
+ham	The package will arrive at your address by Monday.
+ham	Can you send me the presentation before noon?
+ham	Can you send me the invoice before tomorrow evening?
+ham	The package will arrive at your address by Friday.
+ham	Dinner at the mall sounds great! See you at 5pm.
+ham	Don't forget to bring laptop for the trip tomorrow.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Your dentist appointment is confirmed for Friday.
+ham	Don't forget to bring book for the trip tomorrow.
+ham	Don't forget to bring report for the trip tomorrow.
+ham	Don't forget to bring book for the trip tomorrow.
+ham	Meeting rescheduled to 5pm on next week. Let me know if that works.
+ham	Thanks for your help with setup earlier today.
+ham	Can you send me the presentation before 5pm?
+spam	Limited offer! weight loss supplement only $9.99 until midnight! bit.ly/winBig
+ham	Can you send me the invoice before noon?
+ham	Your internet repair appointment is confirmed for next week.
+ham	Don't forget to bring keys for training tomorrow.
+ham	Can you send me the plan before noon?
+ham	Your car service appointment is confirmed for Friday.
+ham	Dinner at the cafe sounds great! See you at 5pm.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Can you send me the presentation before tomorrow evening?
+ham	Meeting rescheduled to 5pm on Friday. Let me know if that works.
+ham	Can you send me the presentation before 5pm?
+ham	Dinner at Central Park sounds great! See you at 6:30.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Don't forget to bring laptop for the trip tomorrow.
+ham	Meeting rescheduled to 6:30 on next week. Let me know if that works.
+ham	Dinner at the mall sounds great! See you at 6:30.
+ham	Don't forget to bring keys for workshop tomorrow.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Thanks for your help with setup earlier today.
+ham	Meeting rescheduled to noon on Friday. Let me know if that works.
+ham	Don't forget to bring report for the trip tomorrow.
+ham	I left the keys on your desk, check it when you get in.
+ham	Can you send me the plan before noon?
+ham	Your car service appointment is confirmed for Monday.
+ham	Your dentist appointment is confirmed for Friday.
+ham	I left the report on your desk, check it when you get in.
+ham	Meeting rescheduled to tomorrow evening on Monday. Let me know if that works.
+ham	I left the book on your desk, check it when you get in.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Meeting rescheduled to 6:30 on Friday. Let me know if that works.
+ham	I left the report on your desk, check it when you get in.
+spam	Limited offer! fitness program only $9.99 until midnight! www.secure-update.net
+ham	Thanks for your help with delivery earlier today.
+ham	Hey Jordan, are we still on for movie at noon?
+ham	The package will arrive at your address by next week.
+spam	You've been pre-approved for a $10000 credit line! www.secure-update.net
+ham	I left the keys on your desk, check it when you get in.
+ham	Hey Chris, are we still on for meeting at 6:30?
+ham	Dinner at Central Park sounds great! See you at 5pm.
+ham	Don't forget to bring laptop for class tomorrow.
+ham	Your internet repair appointment is confirmed for next week.
+ham	Thanks for your help with delivery earlier today.
+ham	I left the keys on your desk, check it when you get in.
+ham	Your internet repair appointment is confirmed for next week.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Don't forget to bring keys for class tomorrow.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Meeting rescheduled to 6:30 on Friday. Let me know if that works.
+ham	Your car service appointment is confirmed for Monday.
+ham	Meeting rescheduled to tomorrow evening on Aug 15. Let me know if that works.
+ham	Dinner at the mall sounds great! See you at 6:30.
+ham	Can you send me the invoice before 5pm?
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Can you send me the invoice before noon?
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Don't forget to bring keys for class tomorrow.
+ham	The package will arrive at your address by Monday.
+ham	Meeting rescheduled to 6:30 on Aug 15. Let me know if that works.
+ham	Don't forget to bring keys for the trip tomorrow.
+ham	Don't forget to bring book for class tomorrow.
+ham	Don't forget to bring book for training tomorrow.
+ham	The package will arrive at your address by Aug 15.
+ham	The package will arrive at your address by Monday.
+ham	Your cleaning appointment is confirmed for Friday.
+ham	Don't forget to bring report for workshop tomorrow.
+ham	Don't forget to bring report for class tomorrow.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Can you send me the presentation before tomorrow evening?
+ham	Don't forget to bring book for class tomorrow.
+ham	Your car service appointment is confirmed for Monday.
+ham	Can you send me the invoice before 6:30?
+ham	Can you send me the plan before 5pm?
+ham	Meeting rescheduled to 5pm on Friday. Let me know if that works.
+ham	Meeting rescheduled to 5pm on Aug 15. Let me know if that works.
+ham	Can you send me the invoice before tomorrow evening?
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Thanks for your help with delivery earlier today.
+ham	Your dentist appointment is confirmed for next week.
+ham	I left the keys on your desk, check it when you get in.
+ham	The package will arrive at your address by Monday.
+ham	Meeting rescheduled to 6:30 on Friday. Let me know if that works.
+ham	Don't forget to bring laptop for training tomorrow.
+ham	Dinner at Olive Garden sounds great! See you at 5pm.
+ham	Thanks for your help with setup earlier today.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Congrats on your graduation! Let's celebrate soon.
+ham	Thanks for your help with setup earlier today.
+ham	Dinner at the cafe sounds great! See you at tomorrow evening.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Don't forget to bring book for workshop tomorrow.
+ham	Thanks for your help with setup earlier today.
+ham	Your internet repair appointment is confirmed for next week.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Can you send me the invoice before tomorrow evening?
+ham	The package will arrive at your address by next week.
+ham	Hey Jordan, are we still on for game at noon?
+ham	The package will arrive at your address by Friday.
+ham	Dinner at the cafe sounds great! See you at noon.
+ham	Meeting rescheduled to 5pm on Aug 15. Let me know if that works.
+ham	Dinner at the cafe sounds great! See you at 6:30.
+ham	Dinner at the mall sounds great! See you at 6:30.
+ham	Can you send me the presentation before 6:30?
+ham	Can you send me the invoice before 5pm?
+ham	Meeting rescheduled to 6:30 on next week. Let me know if that works.
+ham	Meeting rescheduled to tomorrow evening on next week. Let me know if that works.
+ham	Can you send me the presentation before 6:30?
+ham	Don't forget to bring keys for class tomorrow.
+ham	Thanks for your help with delivery earlier today.
+ham	I left the report on your desk, check it when you get in.
+ham	Meeting rescheduled to tomorrow evening on Monday. Let me know if that works.
+ham	Don't forget to bring book for class tomorrow.
+ham	Dinner at Central Park sounds great! See you at tomorrow evening.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	Can you send me the invoice before noon?
+ham	Can you send me the invoice before 6:30?
+ham	The package will arrive at your address by Friday.
+ham	Thanks for your help with setup earlier today.
+ham	Hey Taylor, are we still on for game at noon?
+ham	Thanks for your help with setup earlier today.
+ham	Can you send me the presentation before tomorrow evening?
+ham	Dinner at Olive Garden sounds great! See you at noon.
+ham	Congrats on your promotion! Let's celebrate soon.
+ham	Dinner at Central Park sounds great! See you at 6:30.
+ham	Meeting rescheduled to tomorrow evening on Friday. Let me know if that works.
+ham	Can you send me the plan before noon?
+ham	Can you send me the plan before 5pm?
+ham	Don't forget to bring report for the trip tomorrow.
+ham	Dinner at Olive Garden sounds great! See you at tomorrow evening.
+ham	Hey Taylor, are we still on for meeting at noon?
+ham	I left the laptop on your desk, check it when you get in.
+ham	Hey Jordan, are we still on for meeting at noon?
+ham	Meeting rescheduled to tomorrow evening on next week. Let me know if that works.
+ham	Can you send me the presentation before tomorrow evening?
+ham	Your cleaning appointment is confirmed for Aug 15.
+ham	Can you send me the invoice before 5pm?
+ham	Meeting rescheduled to 6:30 on next week. Let me know if that works.
+ham	Meeting rescheduled to 5pm on Monday. Let me know if that works.
+ham	Thanks for your help with setup earlier today.
+ham	Hey Jamie, are we still on for movie at 6:30?
+ham	Your dentist appointment is confirmed for Monday.
+ham	Thanks for your help with setup earlier today.
+spam	You have been selected for a free shopping voucher! Call 1-877-123-4567 to claim.
+ham	Congrats on your new job! Let's celebrate soon.
+ham	I left the laptop on your desk, check it when you get in.
+ham	Your cleaning appointment is confirmed for next week.
+ham	Thanks for your help with meeting notes earlier today.
+ham	Don't forget to bring report for training tomorrow.
+ham	I left the book on your desk, check it when you get in.
+spam	FREE entry into our $10,000 cash draw! Click www.claim-now.com
+ham	Meeting rescheduled to tomorrow evening on next week. Let me know if that works.
+ham	Meeting rescheduled to 5pm on Aug 15. Let me know if that works.
+spam	Act now! Your Spotify expires soon. Renew at bit.ly/winBig
+ham	Thanks for your help with delivery earlier today.
+ham	The package will arrive at your address by Aug 15.
+ham	Don't forget to bring laptop for training tomorrow.
+ham	Don't forget to bring keys for training tomorrow.
+ham	Your dentist appointment is confirmed for Aug 15.
