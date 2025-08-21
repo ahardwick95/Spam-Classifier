@@ -4,6 +4,7 @@ import seaborn as sns
 import streamlit as st
 import matplotlib.pyplot as plt
 from sklearn.metrics import precision_score, recall_score, f1_score
+from Streamlit_App/Scripts/Spam_Preprocessor import Model_Comp_Preprocessor
 from joblib import load
 
 def Model_Comparisons():
@@ -14,7 +15,8 @@ def Model_Comparisons():
     LogReg = load('LogReg_Model.joblib')
 
     #load the dataset
-    Spam_df = pd.read_csv('03_Spam_Preprocess_Phase.csv')
+    Spam_df = pd.read_csv('Streamlit_App/Data/02_Spam_EDA_Phase.csv')
+    Spam_df = Model_Comp_Preprocessor(Spam_df)
 
     # separate into freatures and target variable
     Y = Spam_df['Result']
