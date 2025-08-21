@@ -1,6 +1,6 @@
 Streamlit_App/  
   Data/ # contains datasets used in the application  
-    ├── 02_Spam_EDA_Phase.csv # Dataset made from EDA phase. Contains engineered features such as number of URLs.  
+      ├── 02_Spam_EDA_Phase.csv # Dataset made from EDA phase. Contains engineered features such as number of URLs.  
     ├──Adversarial_SMS_Dataset.txt # Dataset with threat-actor related artifacts such obfuscation.  
     ├──New_SMS_Dataset.txt # Dataset similar to training corpus but with new messages.  
    Models/ # Contains Machine Learning Models  
