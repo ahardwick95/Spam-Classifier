@@ -4,7 +4,7 @@ import seaborn as sns
 import streamlit as st
 import matplotlib.pyplot as plt
 from sklearn.metrics import precision_score, recall_score, f1_score
-from Streamlit_App/Scripts/Spam_Preprocessor import Model_Comp_Preprocessor
+from Scripts.Spam_Preprocessor import Model_Comp_Preprocessor
 from joblib import load
 
 def Model_Comparisons():
@@ -106,3 +106,4 @@ def Model_Comparisons():
 
     st.write(""" In this case, SMOTE did not make that much difference in performance and in fact made it worse.
               For this case, it seems feature engineering was enough to distinguish between spam and ham( benign) messages.""")
+
