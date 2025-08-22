@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 This project explores the classic **Spam vs Ham SMS classification problem** using **Natural Language Processing (NLP)** and **Machine Learning**.  
+
 I not only trained models on the standard dataset but also stress-tested them with **generative AI datasets** (stricter imbalanced dataset and  + adversarial samples).  
 
 The following is worflow for this project: **EDA → Preprocessing → Modeling → Testing** pipeline, with additional focus on **A/B testing for class imbalance** and **generalization beyond the training corpus**.  
