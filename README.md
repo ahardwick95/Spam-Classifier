@@ -19,9 +19,7 @@ The following is worflow for this project: **EDA → Preprocessing → Modeling 
   2. **Adversarial Dataset** – Contains hacker/threat-actor artifacts (e.g., obfuscation, Neutral Language Injection).  
 
 ---
-### Dataset Citation
-- Almeida, T. & Hidalgo, J. (2011). SMS Spam Collection [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5CC84.
----
+
 
 ## 🛠 Workflow
 
@@ -91,3 +89,6 @@ Spam-Classifier/
 ├── Notebooks # Notebooks used for data science workflow  
 ├── Streamlit_App # Streamlit application code  
 
+### Dataset Citation
+- Almeida, T. & Hidalgo, J. (2011). SMS Spam Collection [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5CC84.
+---
