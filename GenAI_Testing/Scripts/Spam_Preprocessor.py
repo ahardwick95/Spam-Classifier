@@ -227,7 +227,7 @@ def Spam_Feature_Engineering(DataFrame):
 
 
 def SpamData_Preprocessor(FileName):
-    Vector = load('Vectorizer.joblib')
+    Vector = load('Streamlit_App/Models/Vectorizer.joblib')
     
     Spam_df = text_to_dataframe(FileName) # convert text file to dataframe
     Spam_df = Spam_Feature_Engineering(Spam_df) # apply feature engineering
@@ -240,14 +240,71 @@ def SpamData_Preprocessor(FileName):
     Spam_df = pd.concat([Spam_df.reset_index(drop=True), X_text_df.reset_index(drop=True)], axis=1) # combine vectorized dataframe with original dataframe
     Spam_df = Spam_df.drop(['Text'],axis =1) # remove the 'Text' column
     return Spam_df
+
+
+
+
+
+#-------------- functions for Streamlit spam prediction ___________________________________
+
+def Message_Feature_Engineering(DataFrame):
+    DataFrame['num_chars'] = DataFrame['Text'].apply(len) # gathers number of characters in the text and makes a new feature called 'num_chars'
+    DataFrame['num_words'] = DataFrame['Text'].apply(Word_Count) # counts the words in the message and makes a new feature called 'num_words'
+    DataFrame['num_spec_chars'] = DataFrame['Text'].apply(spec_char_check) # counts the special characters in the message and makes a new feature called 'num_spec_chars'
+    DataFrame['num_digits'] = DataFrame['Text'].apply(digit_check) # counts the digits in the message and makes a new feature called 'num_digits'
+    DataFrame['num_Uppercase_Words'] = DataFrame['Text'].apply(Upper_Count) # uppercase word count in the message and makes a new feature called 'num_Uppercase_Words'
+    DataFrame['num_URLS'] = DataFrame['Text'].apply(URL_Count) # counts number of urls then creates new feature called 'num_URLS'
+    DataFrame['num_Emails'] = DataFrame['Text'].apply(Email_Count) # counts number of emaill addresses then creates new feature called 'num_Emails'
+    DataFrame['num_Sus_Words'] = DataFrame['Text'].apply(Suspicious_Word_Count) # suspicious word count , makes new feature called 'num_Sus_Words'
+    
+    
+    return DataFrame
+
+def Message_to_dataframe(text):
+
+    messages_and_results=[]
+
+    message=text.strip() # non-spam text accompanying the key, removes newlines,tabs, and spaces
+    messages_and_results.append({'Text':message})
+            
+        
+    df=pd.DataFrame(messages_and_results)
+            
+    return df
+
+def Message_Preprocessor(message):
+    # This helps to preprocess messages fed into the streamlit app before before processed by our model
+    Vector = load('Streamlit_App/Models/Vectorizer.joblib')
+    
+    Spam_df = Message_to_dataframe(message) # convert text file to dataframe
+    Spam_df = Message_Feature_Engineering(Spam_df) # apply feature engineering
+    Spam_df['Text'] = Spam_df['Text'].apply(clean_text) # remove redundant signals from the message
+
+    # lets vectorize the text and convert to a dataframe
+    #Vectorizer = CountVectorizer(stop_words='english',max_features=5000) # create vectorizer
+    X_text = Vector.transform(Spam_df['Text']) # create sparse matrix
+    X_text_df = pd.DataFrame(X_text.toarray(), columns=Vector.get_feature_names_out()) # convert sparse matrix to dataframe
+    Spam_df = pd.concat([Spam_df.reset_index(drop=True), X_text_df.reset_index(drop=True)], axis=1) # combine vectorized dataframe with original dataframe
+    Spam_df = Spam_df.drop(['Text'],axis =1) # remove the 'Text' column
+    return Spam_df
     
     
     
-    
-    
+#---------------------------------------------------
 
+# This function is specifically for model comaprisons in F5_Model_Comparisons.py, 
+# 03_Spam_Preprocess_Phase.csv is too a big a file to upload on github
 
+def Model_Comp_Preprocessor(Spam_df):
+    # This helps to preprocess messages fed into the streamlit app before before processed by our model
+    Vector = load('Streamlit_App/Models/Vectorizer.joblib')
+    Spam_df['Result'] = Spam_df['Result'].apply(Transform_Target_Spam)
+    Spam_df['Text'] = Spam_df['Text'].apply(clean_text) # remove redundant signals from the message
 
-
-
-
+    # lets vectorize the text and convert to a dataframe
+    #Vectorizer = CountVectorizer(stop_words='english',max_features=5000) # create vectorizer
+    X_text = Vector.transform(Spam_df['Text']) # create sparse matrix
+    X_text_df = pd.DataFrame(X_text.toarray(), columns=Vector.get_feature_names_out()) # convert sparse matrix to dataframe
+    Spam_df = pd.concat([Spam_df.reset_index(drop=True), X_text_df.reset_index(drop=True)], axis=1) # combine vectorized dataframe with original dataframe
+    Spam_df = Spam_df.drop(columns=['Text'], errors='ignore') # remove the 'Text' column
+    return Spam_df
