@@ -77,9 +77,6 @@ To improve feature construction and generalization, I plan to explore:
 - **Models**: Naïve Bayes, Logistic Regression  
 - **Deployment**: Streamlit for interactive app  
 
-## 📷 Demo
-👉 [Insert Screenshot or GIF of Streamlit App Here]  
-
 ---
 
 ## 📁 Repository Structure
@@ -92,4 +89,8 @@ Spam-Classifier/
 ---
 ### Dataset Citation
 - Almeida, T. & Hidalgo, J. (2011). SMS Spam Collection [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5CC84.
+---
+## 📷 Demo
+![Spam Detection Demo](GIF/Project_Demo.gif)
+
 ---
