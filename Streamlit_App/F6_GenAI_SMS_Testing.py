@@ -129,9 +129,9 @@ def Gen_AI_Model_Comparisons():
         plt.tight_layout()
         st.pyplot(fig2)
     
-    st.write("""As we can see , on the new dataset that is similar to the original dataset, logistic regression did relatively well naive bayes did not.
-
+    st.write("""As we can see , on the new dataset that is similar to the original dataset, logistic regression did relatively well naive bayes did not.  
              However, on the adversarial dataset, naive bayes did far better then logistic regression. Overall, it seems that naive bayes did not generalize well to either new dataset. However Logistic regression did generalize well to the new 
              sms dataset but failed to generalize to the adversarial one.""")
+
 
 
