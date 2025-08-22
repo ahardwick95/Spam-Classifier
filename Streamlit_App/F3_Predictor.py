@@ -19,15 +19,16 @@ def Spam_Predictor():
             Prediction = LogReg.predict(Preprocessed_Message)[0] # pass it to the model and collect prediction
 
             if Prediction == 1:
-                st.error("🚨 This looks like **SPAM**!")
+                st.markdown("<h2 style='color: red; text-align: center;'>🚨 SPAM DETECTED!</h2>", unsafe_allow_html=True)
             else:
-                st.success("✅ This looks **Safe (Ham)**!")
+                st.markdown("<h2 style='color: green; text-align: center;'>✅ SAFE MESSAGE</h2>", unsafe_allow_html=True)
         
     else:
         st.warning("Please enter a message to analyze")
 
 
         
+
 
 
 
