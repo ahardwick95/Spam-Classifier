@@ -81,7 +81,7 @@ To improve feature construction and generalization, I plan to explore:
 
 ## 📁 Repository Structure
 Spam-Classifier/   
-├── Datasets # Original dataset along with datasets made during EDA and Preprocessing phase of this project.  
+├── Datasets # Original dataset along with datasets made during EDA and Preprocessing phase of this project.    
 ├── GIF # contains Project Demo GIF
 ├── GenAI_Testing # Notebooks and datasets used for the testing phase of this project.  
 ├── Notebooks # Notebooks used for data science workflow  
