@@ -51,14 +51,14 @@ The following is worflow for this project: **EDA → Preprocessing → Modeling 
 ---
 
 ### 4. Testing on New Datasets
-- When tested on **synthetic similar** and **adversarial datasets**, models performed **poorly**.  
-- Insight: While models fit the training data well, they **did not generalize** — highlighting the need for **stronger, more universal features**.  
+- When tested on **synthetic similar** and **adversarial datasets**, some models performed well others did **poorly**.  
+- Insight: While models fit the training data well, some **did not generalize** — highlighting the need for **stronger, more universal features**.  
 
 ---
 
 ## 📊 Key Results
 - Naïve Bayes and Logistic Regression achieved **high Precision, Recall and F1-scores on original dataset** (with and without SMOTE).  
-- Performance **dropped sharply on synthetic and adversarial datasets**.  
+- Performance **dropped sharply on synthetic datasets** for Naive Bayes well Logistic Regression generalized well on some.  
 - This reveals that **robust generalization** can be more important than resampling methods like SMOTE in real-world applications.  
 
 ---
